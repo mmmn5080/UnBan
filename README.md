@@ -1,4 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
+DOMAIN-SUFFIX,cupfox.app
+
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
