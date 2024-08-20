@@ -1,8 +1,6 @@
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
 # 最后更新时间： 2024-08-07 22:50
-
 payload:
-##### A #####
 
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
