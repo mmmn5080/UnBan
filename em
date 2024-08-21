@@ -1,7 +1,15 @@
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
 # 最后更新时间： 2024-08-07 22:50
 payload:
-
+  - DOMAIN-SUFFIX,cf2.jmsooo.com,Emby
+  - DOMAIN-SUFFIX,cdn.lyrebirdemby.com,Emby
+  - DOMAIN-SUFFIX,film.ohhhh.org,Emby
+  - DOMAIN-SUFFIX,a.nel.cloudflare.com,Emby    
+  - DOMAIN-SUFFIX,stream.ntrrr.top,Emby
+  - DOMAIN-SUFFIX,play.charontv.com,Emby 
+  - DOMAIN-SUFFIX,emby.tnx.one,Emby     
+  - DOMAIN-SUFFIX,nanflix.net,Emby  
+  - DOMAIN-SUFFIX,emby.kim,Emby  
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
