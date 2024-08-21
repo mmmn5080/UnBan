@@ -9,7 +9,9 @@ payload:
   - DOMAIN-SUFFIX,play.charontv.com,Emby 
   - DOMAIN-SUFFIX,emby.tnx.one,Emby     
   - DOMAIN-SUFFIX,nanflix.net,Emby  
-  - DOMAIN-SUFFIX,emby.kim,Emby  
+  - DOMAIN-SUFFIX,emby.kim,Emby 
+
+
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
