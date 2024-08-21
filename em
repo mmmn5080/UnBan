@@ -426,4 +426,3 @@ IP-CIDR,152.53.67.239/32,no-resolve
   - DOMAIN-SUFFIX,dicarerhome.com
   - DOMAIN-SUFFIX,lucasmedia.top
   - DOMAIN-SUFFIX,9191001.xyz
-  - IP-CIDR,188.172.228.49/32,no-resolve
