@@ -141,7 +141,7 @@ payload:
 
 # 剧狗
   - DOMAIN-SUFFIX,ju.dog
-IP-CIDR,202.61.255.248/32,no-resolve
+
 
 # 江湖(Porn)
   - DOMAIN-SUFFIX,reddust.link
@@ -169,7 +169,7 @@ IP-CIDR,202.61.255.248/32,no-resolve
 
 # 蓝海
   - DOMAIN-SUFFIX,blueseacdn.com
-IP-CIDR,212.90.120.164/32,no-resolve
+
 
 ##### M #####
 
@@ -343,7 +343,7 @@ IP-CIDR,212.90.120.164/32,no-resolve
 
 # 探花TV(Jellyfin Porn)
   - DOMAIN-SUFFIX,tanhuatv.site
-IP-CIDR,152.53.67.239/32,no-resolve
+
 
 # TreeDiagram(树状图)
   - DOMAIN-SUFFIX,123456.al
