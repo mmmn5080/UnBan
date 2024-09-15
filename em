@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,emby.tnx.one,Emby     
   - DOMAIN-SUFFIX,nanflix.net,Emby  
   - DOMAIN-SUFFIX,emby.kim,Emby 
+  - DOMAIN-SUFFIX,embymv.link,Emby 
 
 
 # ACA & MisakaF
