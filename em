@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,nanflix.net,Emby  
   - DOMAIN-SUFFIX,emby.kim,Emby 
   - DOMAIN-SUFFIX,embymv.link,Emby 
-
+  - DOMAIN-SUFFIX,pdatv.cc,Emby
 
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
