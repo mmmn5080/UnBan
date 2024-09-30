@@ -2,6 +2,7 @@
 # 最后更新时间： 2024-08-07 22:50
 payload:
   - DOMAIN-SUFFIX,cf2.jmsooo.com,Emby
+  - DOMAIN-SUFFIX,cf2.jmsuper.com,Emby
   - DOMAIN-SUFFIX,cdn.lyrebirdemby.com,Emby
   - DOMAIN-SUFFIX,film.ohhhh.org,Emby
   - DOMAIN-SUFFIX,a.nel.cloudflare.com,Emby    
