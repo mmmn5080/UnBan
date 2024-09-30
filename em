@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,emby.kim,Emby 
   - DOMAIN-SUFFIX,embymv.link,Emby 
   - DOMAIN-SUFFIX,pdatv.cc,Emby
-
+  - IP-CIDR,138.2.4.81,Emby
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
