@@ -1,21 +1,21 @@
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
 # 最后更新时间： 2024-08-07 22:50
 payload:
-  - DOMAIN-SUFFIX,cf2.jmsooo.com,Emby
-  - DOMAIN-SUFFIX,cf2.jmsuper.com,Emby
-  - DOMAIN-SUFFIX,cdn.lyrebirdemby.com,Emby
-  - DOMAIN-SUFFIX,film.ohhhh.org,Emby
-  - DOMAIN-SUFFIX,a.nel.cloudflare.com,Emby    
-  - DOMAIN-SUFFIX,stream.ntrrr.top,Emby
-  - DOMAIN-SUFFIX,play.charontv.com,Emby 
-  - DOMAIN-SUFFIX,emby.tnx.one,Emby     
-  - DOMAIN-SUFFIX,nanflix.net,Emby  
-  - DOMAIN-SUFFIX,emby.kim,Emby 
-  - DOMAIN-SUFFIX,embymv.link,Emby 
-  - DOMAIN-SUFFIX,pdatv.cc,Emby
-  - IP-CIDR,138.2.4.81/32,Emby
-  - IP-CIDR,188.172.228.49/32,Emby
-  - IP-CIDR,202.61.255.248/32,Emby
+  - DOMAIN-SUFFIX,cf2.jmsooo.com
+  - DOMAIN-SUFFIX,cf2.jmsuper.com
+  - DOMAIN-SUFFIX,cdn.lyrebirdemby.com
+  - DOMAIN-SUFFIX,film.ohhhh.org
+  - DOMAIN-SUFFIX,a.nel.cloudflare.com
+  - DOMAIN-SUFFIX,stream.ntrrr.top
+  - DOMAIN-SUFFIX,play.charontv.com
+  - DOMAIN-SUFFIX,emby.tnx.one  
+  - DOMAIN-SUFFIX,nanflix.net
+  - DOMAIN-SUFFIX,emby.kim
+  - DOMAIN-SUFFIX,embymv.link
+  - DOMAIN-SUFFIX,pdatv.cc
+  - IP-CIDR,138.2.4.81/32
+  - IP-CIDR,188.172.228.49/32
+  - IP-CIDR,202.61.255.248/32
 
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
@@ -181,6 +181,9 @@ payload:
 # MisakaF
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,stream1.misakaf.org
+  - DOMAIN-SUFFIX,stream2.misakaf.org 
+  - DOMAIN-SUFFIX,stream3.misakaf.org
 
 # MjjEmby
   - DOMAIN-SUFFIX,mjjemby.org
