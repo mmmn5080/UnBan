@@ -18,6 +18,7 @@ payload:
   - IP-CIDR,138.2.4.81/32
   - IP-CIDR,188.172.228.49/32
   - IP-CIDR,202.61.255.248/32
+  - IP-CIDR,69.10.32.214/32
 
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
