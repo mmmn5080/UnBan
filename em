@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,embymv.link
   - DOMAIN-SUFFIX,pdatv.cc
+  - DOMAIN-SUFFIX,su.viclub.top
+  - DOMAIN-SUFFIX,oversea.alphatvapp.top
   - IP-CIDR,138.2.4.81/32
   - IP-CIDR,188.172.228.49/32
   - IP-CIDR,202.61.255.248/32
