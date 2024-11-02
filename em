@@ -15,10 +15,10 @@ payload:
   - DOMAIN-SUFFIX,pdatv.cc
   - DOMAIN-SUFFIX,su.viclub.top
   - DOMAIN-SUFFIX,oversea.alphatvapp.top
-  - IP-CIDR,138.2.4.81/32
-  - IP-CIDR,188.172.228.49/32
-  - IP-CIDR,202.61.255.248/32
-  - IP-CIDR,69.10.32.214/32
+  - IP-CIDR,138.2.4.81/32,no-resolve
+  - IP-CIDR,188.172.228.49/32,no-resolve
+  - IP-CIDR,202.61.255.248/32,no-resolve
+  - IP-CIDR,69.10.32.214/32,no-resolve
 
 # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
