@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,pdatv.cc
   - DOMAIN-SUFFIX,su.viclub.top
   - DOMAIN-SUFFIX,oversea.alphatvapp.top
+  - DOMAIN-SUFFIX,emby-myg-de.vfing.de
   - IP-CIDR,138.2.4.81/32,no-resolve
   - IP-CIDR,188.172.228.49/32,no-resolve
   - IP-CIDR,202.61.255.248/32,no-resolve
