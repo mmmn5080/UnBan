@@ -3,6 +3,7 @@
 payload:
   - DOMAIN-SUFFIX,cf2.jmsooo.com
   - DOMAIN-SUFFIX,cf2.jmsuper.com
+  - DOMAIN-SUFFIX,nano.jmsuper.com
   - DOMAIN-SUFFIX,cdn.lyrebirdemby.com
   - DOMAIN-SUFFIX,film.ohhhh.org
   - DOMAIN-SUFFIX,a.nel.cloudflare.com
